@@ -1,6 +1,7 @@
 
-// Modificación de C
-function funcionC() {
-    return 'Version C';
+> // Modificación de C
+
+function funcionD(){
+    return 'Version D';
 }
 
