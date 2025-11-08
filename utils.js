@@ -1,10 +1,6 @@
 
-// Utilidades combinadas
-function funcionA() {
-    return 'Versión A';
-}
-
-function funcionB() {
-    return 'Versión B';
+// Modificación de funcionalidad D
+function funcionD() {
+    return 'Version D modificada'; 
 }
 
